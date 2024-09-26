@@ -1,0 +1,21 @@
+React is a JavaScript library use for building user interfaces, particularly for web applications. It allows developers to create reusable UI elements due to its component-based architecture which is great advantage of react from other Javascript. It has virtual DOM to improve performance.When the state of a component changes,React creates a new Virtual DOM representation of the UI.
+
+Hooks are a new React feature for state management that came with React 16.8 in 2019.This additional API allows you to use states and lifecycle methods inside functional components.That means you no longer need to define a Class Component in order to manage changes in the state o your React application corresponding to the user input.
+The basic Hooks that are commonly used by react developers:
+1. State Hook -useState :Allows you to use local state inside React functional components, without converting them to class components.
+2. Effect Hook -useEffect: This hooks replaces componentDidMount,componentDidUpdate, and componentWillUnmount used in class component.
+3. Context Hook - useContext:Context hook is used within React applications that are using a React app context.
+4. Reducer Hook-useReducer:useReducer is convenient for managing complex state changes.
+
+
+Redux is a popular state management library for JavaScript applications, particularly those built with React.Its primary purpose is to manage the application's state in a predictable and centralized way.
+Purpose of Redux:-
+1. Centralized State
+
+
+Hi , I am Mandar Uday Patil. I want to apply for the job at 
+Hi , This is Mandar Uday Patil . I am currently looking a job at Uplers
+
+FMIPP2815R
+
+As a member of the ANSA DevOps team, I specialize in front-end development, prioritizing the upkeep of the FMS website. Leveraging a toolkit including HTML, CSS, SASS, JavaScript, TypeScript, and the Angular framework (specifically Angular +11, RxJS, and Angular-CLI), my role centers on crafting immersive user experiences. Notably, I have implementated download button functionality. This innovative feature streamlines PDF report generation, significantly enhancing data accessibility and user interaction. It eliminates the previous reliance on specialized OTDR viewer software, ensuring seamless data sharing previously confined to .sor files (OTDR trace files).

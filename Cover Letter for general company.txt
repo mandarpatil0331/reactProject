@@ -1,0 +1,16 @@
+Greetings,
+
+I am writing to express my interest in the Software Development Engineer II (Front End) at liveperson., as advertised. With a solid background in software development and a passion for creating seamless user experiences, I am excited about the opportunity to contribute to your team.
+
+I have considerable experience in front-end development, utilizing HTML, CSS, SASS, JavaScript, TypeScript, and Angular framework (including Angular +11, RxJS, Angular-CLI) to maintain and enhance user interfaces. My proficiency in these technologies has enabled me to consistently deliver high-quality front-end designs,Academically as well as professionaly, that intends to provide users with intuitive and engaging experiences.
+
+In addition to front-end development, I have also demonstrated my expertise in backend development  and system optimization while my brief stint in EXFO Pune.While working with previous employer, I implemented log rotation cycles in JavaScript, resulting in a significant reduction in log space usage for critical services. Moreover, my hands-on experience with CI/CD, monitoring, observability, and production readiness ensures that systems are always running efficiently and effectively.
+
+I am well-versed in microservices management using Docker Swarm and have experience collaborating with globally distributed teams across multiple time zones. My ability to work effectively in diverse team environments allows me to adapt quickly and contribute positively to project success.
+
+Furthermore, I have completed several impactful Academic projects that showcase my technical skills and problem-solving abilities. For instance, I developed a web application that grants students access to courses upon logging in, while instructors can administer the course content. This project involved a comprehensive tech stack including JavaScript (ES5 & ES6), Firebase Firestore, Firebase Authentication, Express.js, React, and Node.js, showcasing my versatility across different technologies.I also have experience in computer vision and machine learning, having analyzed traffic flow using YOLO V5 to optimize lane allocation in a four-lane traffic square. I incorporated logic and algorithms entirely in Python for this project, demonstrating my proficiency in both languages and my ability to apply them to real-world scenarios.
+
+I have a keen interest in Language Models (LLMs) and chatbot-related technologies and am excited about the potential applications of these technologies in various industries. I am confident that my background in academia and industry, briefly, along with my willingness to thrive in the fast-paced environment wrrhile seeking collaborations with cross-functional teams make me a promising candidate for the role of Software Development Engineer II (Front End) at liveperson. Thank you for considering my application. I have attached my resume for your review and would welcome the opportunity to further discuss how my skills and experiences align with the needs of your team.
+
+Sincerely,
+Mandar Patil
