@@ -60,7 +60,7 @@ function Table() {
         setFilteredData(json);
         setLoading(false);
       } catch (error) {
-        console.error('Error fetching JSON data:', error);
+        console.error('Error fetching JSON :', error);
         setLoading(false);
       }
     };
