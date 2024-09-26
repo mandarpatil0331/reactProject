@@ -1,0 +1,57 @@
+.side-panel {
+    position: fixed;
+    top: 0;
+    right: -300px;
+    width: 300px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: -2px 0 5px rgba(0,0,0,0.5);
+    padding: 20px;
+    transition: right 0.3s ease-in-out;
+    z-index: 1000;
+  }
+  
+  .side-panel.open {
+    right: 0;
+  }
+  
+  .side-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .close-button {
+    background-color: transparent;
+    border: none;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+  
+  .filter-icon-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .column-visibility {
+    /* Ensure it has some styling */
+    margin: 16px; /* Add margin for spacing around the entire container */
+  }
+  
+  .column-toggle {
+    display: flex; /* Use flexbox for alignment */
+    justify-content: space-between; /* Space items equally */
+    align-items: center; /* Center items vertically */
+    padding: 8px; /* Optional: Add padding for spacing */
+    border-bottom: 1px solid #ccc; /* Optional: Add a bottom border for separation */
+  }
+  
+  /* Optional: Style for the label */
+  .column-toggle label {
+    margin-right: 10px; /* Optional: Space between label and toggle */
+  }
+  
